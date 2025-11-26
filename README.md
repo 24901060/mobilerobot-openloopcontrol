@@ -119,7 +119,7 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-![new](https://github.com/user-attachments/assets/05eb2416-287a-49a3-be60-cbe3271a262e)
+![WhatsApp Image 2025-11-25 at 11 25 49 PM](https://github.com/user-attachments/assets/752edacf-a1e8-439b-ba40-5ec2cbe2661e)
 
 
 
@@ -130,7 +130,7 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Video:
 
-https://youtu.be/Y1nH6TTyQHE
+[https://youtu.be/Y1nH6TTyQHE](https://www.youtube.com/watch?v=SbkYV_v0RK4)
 
 <br/>
 <br/>
